@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "main.h": "c",
+        "dsp.h": "c",
+        "audio_record.h": "c",
+        "dsp_coeffs.h": "c",
+        "lcd_txt.h": "c",
+        "lcd16x2.h": "c"
+    }
+}

@@ -1,0 +1,13 @@
+bsp_project\commontables.o: d:\Users\Hi\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\CommonTables\CommonTables.c
+bsp_project\commontables.o: d:\Users\Hi\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\CommonTables\arm_common_tables.c
+bsp_project\commontables.o: ..\Drivers\CMSIS\DSP\Include\arm_math.h
+bsp_project\commontables.o: ../Drivers/CMSIS/Include/core_cm4.h
+bsp_project\commontables.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bsp_project\commontables.o: ../Drivers/CMSIS/Include/cmsis_version.h
+bsp_project\commontables.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+bsp_project\commontables.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+bsp_project\commontables.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+bsp_project\commontables.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+bsp_project\commontables.o: ..\Drivers\CMSIS\DSP\Include\arm_common_tables.h
+bsp_project\commontables.o: d:\Users\Hi\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\CommonTables\arm_const_structs.c
+bsp_project\commontables.o: ..\Drivers\CMSIS\DSP\Include\arm_const_structs.h
