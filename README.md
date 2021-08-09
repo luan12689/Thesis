@@ -10,12 +10,8 @@ Run FaceVoiceRecogintion.mlapp with matlab 2019b or above
 
 <img src="document\final.PNG">
 
-# See my demo:
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qErtuSPFMIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+# See my demo on youtube:
 
 [![Demo](https://img.youtube.com/vi/qErtuSPFMIo/0.jpg)](https://www.youtube.com/watch?v=qErtuSPFMIo)
 
-https://www.youtube.com/watch?v=qErtuSPFMIo
+LINK : https://www.youtube.com/watch?v=qErtuSPFMIo
