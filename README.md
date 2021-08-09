@@ -12,8 +12,6 @@ Run FaceVoiceRecogintion.mlapp with matlab 2019b or above
 
 # See my demo on youtube:
 
-<p align="center">
 [![Demo](https://img.youtube.com/vi/qErtuSPFMIo/0.jpg)](https://www.youtube.com/watch?v=qErtuSPFMIo)
-</p>
 
 Link : https://www.youtube.com/watch?v=qErtuSPFMIo
