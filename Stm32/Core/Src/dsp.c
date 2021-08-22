@@ -400,7 +400,7 @@ uint8_t voice_recognition(float *distance, float min_distance, float OutBuf[],ds
 		//dsp_return vFlag = check_voice(distance[9], id);
 		dsp_return passFlag = check_pass(id);
 		*Pass = passFlag;
-		/*Voice && Flag check *
+		/*Voice && Flag check */
 		toggle_leds_rgb(OFF1);
 		lcd16x2_clear();
 		if ((vFlag == DSP_OK) && (passFlag == DSP_OK))
